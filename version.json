@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "url": "https://github.com/paycelapp/paycelapp.github.io/releases/download/v1.0.0/Paycel-Setup-1.0.0.exe",
+  "notes": "Primera versión pública de Paycel",
+  "changes": [
+    "Cobros desde YouTube, lista propia o una imagen",
+    "11 diseños de Excel, por precio fijo, por minuto o por trabajo",
+    "Cobros como archivos .paycel con carpetas",
+    "Google Sheets opcional"
+  ]
+}
